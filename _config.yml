@@ -4,35 +4,33 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://cblevins.github.io"
-baseurl: "/sp19-cw-rec"
+#url: "https://cblevins.github.io"
+#baseurl: "/sp19-cw-rec"
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
+url: "http://cblevins.github.io/"
+baseurl: "/sp19-cw-rec"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: test
+title: Civil War and Reconstruction
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Course Website for Northeastern University (Spring 2019)
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  About This Course: "index"
+  Schedule: "schedule"
+  Policies: "policies"
+  Assignments: "assignments"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+#avatar: "/img/36-star-flag-small-crop.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -55,27 +53,36 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
+# navbar-img: "/img/header-image.png"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
+
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Cameron Blevins
+  email: c.blevins@northeastern.edu
+course_number: "HIST 1130"
+semester: "Spring 2019"
+room: TBD
+meetingtime: "Mon/Wed 2:45-4:30pm"
+office: "237 Meserve Hall"
+officehours: "By Appointment"
+university: "Northeastern University"
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  #rss: true
+#  email: "someone@example.com"
+#  facebook: daattali
+#  github: daattali
+#  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -99,7 +106,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "cameronblevins.org"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 

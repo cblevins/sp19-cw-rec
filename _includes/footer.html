@@ -24,10 +24,13 @@
           {%- endfor -%}
         </ul>
       <p class="copyright text-muted">
-      {{ site.author.name }}
+      <a href="https://cameronblevins.org">{{ site.author.name }}</a>
       &nbsp;&bull;&nbsp;
-      {{ site.time | date: '%Y' }}
-
+      {{ site.university }}
+      &nbsp;&bull;&nbsp; 
+      {{ site.semester }}
+      <!--{{ site.time | date: '%Y' }}-->
+		
       {% if site.url-pretty %}
       &nbsp;&bull;&nbsp;
       <a href="{{ site.url }}">{{ site.url-pretty }}</a>
