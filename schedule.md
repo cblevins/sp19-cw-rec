@@ -32,6 +32,8 @@ title: Schedule
 - Complete a 15-second advertisement for your podcast show and submit it to Professor Blevins before the start of class.
 - Continue watching *12 Years a Slave* (2013) or *Twelve Years a Slave: Solomon Northup's Odyssey* (1984).
 
+*Outside event: Th. 1/24, 5:30pm*: [Writing Frederick Douglass: Prophet of Freedom](https://www.masshist.org/calendar/event?event=2777&bblinkid=135308437&bbemailid=11818666&bbejrid=904475788) event at the Massachusetts Historical Society.
+
 *[Podcast Episode #1]({{site.baseurl}}/podcasts) Due Sunday, 1/27 by 5PM*
 
 **M. 1/28: Half Slave and Half Free | Set-Up Session**
@@ -57,6 +59,8 @@ title: Schedule
 **W. 2/13: Session 4**
 
 *Outside event: W. 2/13, 6:00pm*: [Talking About Slavery at Public Monuments](https://www.osmh.org/event/talking-about-slavery-at-historic-sites-and-museums) at the [Old South Meeting House](https://www.google.com/maps?ll=42.356991,-71.058371&z=15&t=m&hl=en-US&gl=US&mapclient=embed&cid=10942027656038740366).
+
+*Outside event: Th. 2/14, 12:00pm*: [Douglass Day Transcribe-a-thon](https://web.northeastern.edu/nulab/event/douglass-day-2019/).
 
 ~~**M. 2/18 No Class, President’s Day**~~
 
