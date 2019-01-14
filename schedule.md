@@ -19,7 +19,7 @@ title: Schedule
 **W. 1/16: Podcasting Workshop**
 - Begin watching *12 Years a Slave* (2013) or *Twelve Years a Slave: Solomon Northup's Odyssey* (1984).
 - [*Kentucky, 1861* Gamebook](https://www.dropbox.com/s/7uukpgnns9nvofr/Kentucky1861_Gamebook.pdf?dl=0), p. 15-26.
-- Install [Audacity](https://www.audacityteam.org/download/) and the [LAME .mp3 encoder](https://manual.audacityteam.org/man/faq_installation_and_plug_ins.html#lame)
+- Install [Audacity](https://www.audacityteam.org/download/) and the [LAME .mp3 encoder](https://manual.audacityteam.org/man/faq_installation_and_plug_ins.html#lame) on laptop and bring to class. 
 - David Edelstein, ["'Birth Of A Nation' Conforms To Hollywood's Standard Revenge Template"](https://www.npr.org/2016/10/07/496951409/-birth-of-a-nation-conforms-to-hollywoods-standard-revenge-template) (October 7, 2016) from *NPR: Fresh Air*.
 
 <iframe src="https://www.npr.org/player/embed/496951409/497056613" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
