@@ -19,13 +19,14 @@ title: Schedule
 **W. 1/16: Podcasting Workshop**
 - Begin watching *12 Years a Slave* (2013) or *Twelve Years a Slave: Solomon Northup's Odyssey* (1984).
 - [*Kentucky, 1861* Gamebook](https://www.dropbox.com/s/7uukpgnns9nvofr/Kentucky1861_Gamebook.pdf?dl=0), p. 15-26.
+- Install [Audacity](https://www.audacityteam.org/download/) and the [LAME .mp3 encoder](https://manual.audacityteam.org/man/faq_installation_and_plug_ins.html#lame)
 - David Edelstein, ["'Birth Of A Nation' Conforms To Hollywood's Standard Revenge Template"](https://www.npr.org/2016/10/07/496951409/-birth-of-a-nation-conforms-to-hollywoods-standard-revenge-template) (October 7, 2016) from *NPR: Fresh Air*.
 
 <iframe src="https://www.npr.org/player/embed/496951409/497056613" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
 ~~**M. 1/21: No Class - Official Holiday**~~
 
-**W. 1/23: The 1850s**
+**W. 1/23: Half Slave and Half Free**
 - Alexis Coe and Elliott Kalan, "Franklin Pierce" (15 October 2017) from *Presidents are People Too!* podcast. [Audible](https://www.audible.com/pd/Ep-24-Franklin-Pierce-Presidents-Are-People-Too-Audiobook/B076PPCCJ4) or [iTunes](https://itunes.apple.com/us/podcast/presidents-are-people-too/id1168237590?mt=2)
 - Lillian Cunningham, "Franklin Pierce: Rolling Off the Tracks" (10 April 2016) from *Presidential* podcast. [Multiple listening options.](https://www.washingtonpost.com/graphics/business/podcasts/presidential/)
 - *Kentucky, 1861* Gamebook, p. 27-37.
@@ -36,7 +37,7 @@ title: Schedule
 
 *[Podcast Episode #1]({{site.baseurl}}/podcasts) Due Sunday, 1/27 by 5PM*
 
-**M. 1/28: Half Slave and Half Free | Set-Up Session**
+**M. 1/28: Set-Up Session**
 - *Kentucky, 1861* Gamebook, p. 37-52.
 - Abraham Lincoln, "House Divided” (1858)
 - Abraham Lincoln and Stephen Douglas, "Freeport Debate” (1858)
