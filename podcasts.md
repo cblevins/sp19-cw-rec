@@ -13,17 +13,23 @@ In your first podcast episode you will be focusing on the topic of slavery in th
 
 Regardless of your choice, you will be producing a **6-7 minute podcast episode** that offers a brief introduction of the film before zeroing in on a particular scene. What does it tell the viewer about slavery in the antebellum United States? What is the director trying to accomplish or convey with this scene? What sort of stylistic strategies do they use to convey their message? Who is their intended audience? Are they successful? Your podcast needs to focus on the historical dimension of this scene while providing context and additional information for your listener.
 
+Submit file to: <https://www.dropbox.com/request/TDdiYxKG3QCGDnlBFMiO>
+
 *Deadline: Sunday, 1/27 by 5:00PM.* 
 
 ### Podcast Episode #2: The Civil War (15%)
 
 In your second podcast, you will analyze a popular culture artifact related to the Civil War. It is up to you what you select (art, music, television series, film, novel, video game, etc.). You will select a specific theme from this piece and record a close analysis of it. A summary of the pop culture artifact is not sufficient. For instance, a student might choose to analyze how Union Army troops are represented in the film "Gone with the Wind." Much like your first podcast episode, you should offer a brief introduction to the piece of pop culture before zeroing in on your particular historical theme. Analyze the song’s or movie’s (mis)representation of historical people, events, and/or topics based on discussions, lectures, assigned readings, and additional research. Your podcast episode should be **8-10 minutes in length**. 
 
+Submit file to: <https://www.dropbox.com/request/YSnl6rd1ZaxyIbVGz50R>
+
 *Deadline: Sunday, 3/24 by 5:00pm.*
 
 ### Advertisements
 
-Podcasts are not produced in a vacuum. For many shows, their success depends on both getting listeners and getting advertising revenue. To help you understand this dimension of podcasting, you will be trying to advertise your own show on other podcasts while also generating advertising revenue by incorporating advertisements into your own podcast. To facilitate this, each of you will produce a 15-second advertisement for your show and then use a $100 fictional marketing budget to try and "buy" spots to run the ad on other shows. You have two goals. First, you want your own advertisement to appear on as many other shows as possible. Second, you want to receive as much advertising revenue as you can by negotiating the sale of advertisement spots on your own show. **Extra credit for the final semester grade** will be given to the student who: a) buys the greatest number of spots for their advertisement on other podcast episodes, or b) ends the semester with the most advertising revenue from other students. You have full latitude to negotiate these transactions in any way you choose, but keep in mind that you'll need to strike a balance. You need to include at least one advertisement per episode, but airing *too many* ads will take away from the listener's experience and negatively impact your grade. 
+Podcasts are not produced in a vacuum. For many shows, their success depends on both getting listeners and getting advertising revenue. To help you understand this dimension of podcasting, you will be trying to advertise your own show on other podcasts while also generating advertising revenue by incorporating advertisements into your own podcast. To facilitate this, each of you will produce a 15-second advertisement for your show and then use a $100 fictional marketing budget to try and "buy" spots to run the ad on other shows. You have two goals. First, you want your own advertisement to appear on as many other shows as possible. Second, you want to receive as much advertising revenue as you can by negotiating the sale of advertisement spots on your own show. **Extra credit for the final semester grade** will be given to the student who: a) buys the most spots for their advertisement on other podcast episodes, or b) ends the semester with the most advertising revenue from other students. You have full latitude to negotiate these transactions in any way you choose, but keep in mind that you'll need to strike a balance. You need to include at least one advertisement per episode, but airing *too many* ads will take away from the listener's experience and negatively impact your grade.
+
+*Post advertisements to the Slack #podcasts channel by Tuesday, 1/22 by 5:00PM.*
 
 ### Submission Guidelines
 
@@ -31,4 +37,4 @@ Each podcast episode should include an introduction to yourself and the show, at
 
 Each episode should be submitted as follows:
 1. Podcast in MP3 format (<50MB file size) with the file named either: `YourLastName_Podcast_1.mp3` or `YourLastName_Podcast_2.mp3` (ex. `Blevins_Podcast_1.mp3`).
-2. Word document that includes a written outline of your episode, works cited, and advertising tallies. The file should be named either: `YourLastName_Podcast_1.docx` or `YourLastName_Podcast_2.docx` (ex. `Blevins_Podcast_1.mp3`).
+2. Word document that includes a written outline of your episode, works cited, and advertising tallies. The file should be named either: `YourLastName_Podcast_1.docx` or `YourLastName_Podcast_2.docx` (ex. `Blevins_Podcast_1.docx`).
