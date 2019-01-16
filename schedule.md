@@ -26,11 +26,13 @@ title: Schedule
 
 ~~**M. 1/21: No Class - Official Holiday**~~
 
+*Post advertisements to the Slack #podcasts channel by Tuesday, 1/22 by 5:00PM.*
+
 **W. 1/23: Half Slave and Half Free**
 - Alexis Coe and Elliott Kalan, "Franklin Pierce" (15 October 2017) from *Presidents are People Too!* podcast. [Audible](https://www.audible.com/pd/Ep-24-Franklin-Pierce-Presidents-Are-People-Too-Audiobook/B076PPCCJ4) or [iTunes](https://itunes.apple.com/us/podcast/presidents-are-people-too/id1168237590?mt=2)
 - Lillian Cunningham, "Franklin Pierce: Rolling Off the Tracks" (10 April 2016) from *Presidential* podcast. [Multiple listening options.](https://www.washingtonpost.com/graphics/business/podcasts/presidential/)
 - *Kentucky, 1861* Gamebook, p. 27-37.
-- Complete a 15-second advertisement for your podcast show and submit it to Professor Blevins before the start of class.
+- Complete a 15-second advertisement for your podcast show and post to Slack #podcasts channel by Tuesday, 1/22 by 5:00PM.
 - Continue watching *12 Years a Slave* (2013) or *Twelve Years a Slave: Solomon Northup's Odyssey* (1984).
 
 *Outside event: Th. 1/24, 5:30pm*: [Writing Frederick Douglass: Prophet of Freedom](https://www.masshist.org/calendar/event?event=2777&bblinkid=135308437&bbemailid=11818666&bbejrid=904475788) event at the Massachusetts Historical Society.
