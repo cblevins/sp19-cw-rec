@@ -29,7 +29,7 @@ title: Schedule
 *Post advertisements to the Slack #podcasts channel by Tuesday, 1/22 by 5:00PM.*
 
 **W. 1/23: Half Slave and Half Free**
-- Alexis Coe and Elliott Kalan, "Franklin Pierce" (15 October 2017) from *Presidents are People Too!* podcast. [Audible](https://www.audible.com/pd/Ep-24-Franklin-Pierce-Presidents-Are-People-Too-Audiobook/B076PPCCJ4) or [iTunes](https://itunes.apple.com/us/podcast/presidents-are-people-too/id1168237590?mt=2)
+- Alexis Coe and Elliott Kalan, "Franklin Pierce" (15 October 2017) from *Presidents are People Too!* podcast. [Audible](https://www.audible.com/pd/Ep-24-Franklin-Pierce-Presidents-Are-People-Too-Audiobook/B076PPCCJ4), [iTunes](https://itunes.apple.com/us/podcast/presidents-are-people-too/id1168237590?mt=2), [Stitcher](https://www.stitcher.com/podcast/presidents-are-people-too/e/50171022?autoplay=true).
 - Lillian Cunningham, "Franklin Pierce: Rolling Off the Tracks" (10 April 2016) from *Presidential* podcast. [Multiple listening options.](https://www.washingtonpost.com/graphics/business/podcasts/presidential/)
 - *Kentucky, 1861* Gamebook, p. 27-37.
 - Complete a 15-second advertisement for your podcast show and post to Slack #podcasts channel by Tuesday, 1/22 by 5:00PM.
