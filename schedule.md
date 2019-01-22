@@ -40,15 +40,17 @@ title: Schedule
 *[Podcast Episode #1]({{site.baseurl}}/podcasts) Due Sunday, 1/27 by 5PM*
 
 **M. 1/28: Set-Up Session**
-- *Kentucky, 1861* Gamebook, p. 37-52, 73-79.
-- Complete Role Allocation questionnaire.
-- Abraham Lincoln, "House Divided” (1858)
-- Abraham Lincoln and Stephen Douglas, "Freeport Debate” (1858)
+* By Fri. 1/25: 
+  - Read *Kentucky, 1861* Gamebook, p. 51-52 & 73-79, and then complete Role Allocation questionnaire.
+* By Mon. 1/28:
+  - *Kentucky, 1861* Gamebook, p.37-49. 
+  - James Henry Hammond, "Cotton Is King” (1858)
 
 **W. 1/30: Set-Up Session**
-- *Kentucky, 1861* Gamebook, p. 52-71 (rules and procedures, basic outline, & assignments).
+- *Kentucky, 1861* Gamebook, p. 52-71 (ignore p. 64-66)
 - Review your role sheet.
-- James Henry Hammond, "Cotton Is King” (1858)
+- Abraham Lincoln, "House Divided” (1858)
+- Abraham Lincoln and Stephen Douglas, "Freeport Debate” (1858)
 - Stephen F. Hale, "Letter to Governor Beriah Magoffin" (1860)
 
 **M. 2/4: Set-Up Session & Game Session 1**
