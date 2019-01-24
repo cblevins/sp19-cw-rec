@@ -41,13 +41,13 @@ title: Schedule
 
 **M. 1/28: Set-Up Session**
 * By Fri. 1/25: 
-  - Read *Kentucky, 1861* Gamebook, p. 51-52 & 73-79, and then complete Role Allocation questionnaire.
+  - Read [*Kentucky, 1861* Gamebook](https://www.dropbox.com/s/7uukpgnns9nvofr/Kentucky1861_Gamebook.pdf?dl=0), p. 51-52 & 73-79, and then complete Role Allocation questionnaire.
 * By Mon. 1/28:
-  - *Kentucky, 1861* Gamebook, p.37-49. 
-  - James Henry Hammond, "Cotton Is King” (1858)
+  - [*Kentucky, 1861* Gamebook](https://www.dropbox.com/s/7uukpgnns9nvofr/Kentucky1861_Gamebook.pdf?dl=0), p.37-49. 
+  - James Henry Hammond, "Cotton Is King” (1858) - pp. 117-123 of [Gamebook PDF](https://www.dropbox.com/s/7uukpgnns9nvofr/Kentucky1861_Gamebook.pdf?dl=0)
 
 **W. 1/30: Set-Up Session**
-- *Kentucky, 1861* Gamebook, p. 52-71 (ignore p. 64-66)
+- [*Kentucky, 1861* Gamebook](https://www.dropbox.com/s/7uukpgnns9nvofr/Kentucky1861_Gamebook.pdf?dl=0), p. 52-71 (ignore p. 64-66)
 - Review your role sheet.
 - Abraham Lincoln, "House Divided” (1858)
 - Abraham Lincoln and Stephen Douglas, "Freeport Debate” (1858)
