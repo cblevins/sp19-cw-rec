@@ -50,7 +50,6 @@ title: Schedule
 - [*Kentucky, 1861* Gamebook](https://www.dropbox.com/s/7uukpgnns9nvofr/Kentucky1861_Gamebook.pdf?dl=0), p. 52-71 (ignore p. 64-66)
 - Review your role sheet.
 - Abraham Lincoln, "House Divided” (1858)
-- Abraham Lincoln and Stephen Douglas, "Freeport Debate” (1858)
 - Stephen F. Hale, "Letter to Governor Beriah Magoffin" (1860)
 
 **M. 2/4: Set-Up Session & Game Session 1**
