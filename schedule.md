@@ -39,7 +39,7 @@ title: Schedule
 
 *[Podcast Episode #1]({{site.baseurl}}/podcasts) Due Sunday, 1/27 by 5PM*
 
-**M. 1/28: Set-Up Session**
+**M. 1/28: The 1850s | Set-Up Session**
 * By Fri. 1/25: 
   - Read [*Kentucky, 1861* Gamebook](https://www.dropbox.com/s/7uukpgnns9nvofr/Kentucky1861_Gamebook.pdf?dl=0), p. 51-52 & 73-79, and then complete Role Allocation questionnaire.
 * By Mon. 1/28:
