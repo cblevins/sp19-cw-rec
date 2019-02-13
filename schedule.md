@@ -69,22 +69,21 @@ title: Schedule
 
 ~~**M. 2/18 No Class, President’s Day**~~
 
-**W. 2/20: Session 5 & Session 6**
+**W. 2/20: Session 5**
 
-**M. 2/25: Debrief Session | The Beginning of the Civil War**
+**M. 2/25: Session 6**
+
+**W. 2/27: Debrief Session | War Begins**
 - Post-mortem assessment due Sunday, 2/24 by 5PM.
 - Ari Kelman and Jonathan Fetter-Vorm, *Battle Lines: A Graphic History of the Civil War* (pp. ix-42)
-
-**W. 2/27: Why They Fought**
-- Ari Kelman and Jonathan Fetter-Vorm, *Battle Lines: A Graphic History of the Civil War* (pp. 43-68)
 
 ~~**M. 3/4: No Class - Spring Break**~~
 
 ~~**W. 3/6: No Class - Spring Break**~~
 
-**M. 3/11: The Massachusetts 54th Regiment**
+**M. 3/11: Why They Fought**
 - Watch film *Glory* (1989)
-- Kelman and Fetter-Vorm, *Battle Lines* (pp. 69-129)
+- Kelman and Fetter-Vorm, *Battle Lines* (pp. 43-129)
 
 **W. 3/13: Walking Tour of the Black Heritage Trail**
 - Note: Meet at the [Robert Gould Shaw Memorial](https://goo.gl/maps/cwWuCd4D9ou) for a guided tour of the trail with a National Park Service employee. 
