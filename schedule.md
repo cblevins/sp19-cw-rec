@@ -106,17 +106,19 @@ title: Schedule
 - Kelman and Fetter-Vorm, *Battle Lines* (p. 175-211)
 - ["1865: United States of Uncertainty"](https://www.backstoryradio.org/shows/eighteen-sixty-five/) (April 25, 2015) from *Backstory* podcast.
 
-**M. 4/1: Reconstruction**
-- ["The Most Perfect Album: Episode 5"](https://www.wnycstudios.org/story/most-perfect-album-episode-5) (October 24, 2018) from *More Perfect* podcast.
+**M. 4/1: Reconstruction I**
 - ["A More Perfect Union: The Reconstruction Era"](https://www.backstoryradio.org/shows/a-more-perfect-union/) (August 10, 2018) from *Backstory* podcast.
+- Gregory Downs and Scott Nesbit, [Mapping Occupation](http://mappingoccupation.org/) (read the entirety)
 
-**W. 4/3: Greater Reconstruction**
+**W. 4/3: Reconstruction II**
+- ["The Most Perfect Album: Episode 5"](https://www.wnycstudios.org/story/most-perfect-album-episode-5) (October 24, 2018) from *More Perfect* podcast.
 - Come to class with a one-paragraph overview of your project
 
-**M. 4/8: Redemption**
+**M. 4/8: Redemption and Reunion**
 - Alexis Coe and Elliott Kalan, "Rutherford B. Hayes" (March 6, 2017) from *Presidents are People Too!* podcast. [Audible](https://www.audible.com/pd/Ep-19-Rutherford-B-Hayes-Presidents-Are-People-Too-Audiobook/B076PRC75B) or [iTunes](https://itunes.apple.com/us/podcast/presidents-are-people-too/id1168237590?mt=2).
+- Watch documentary "Birth of a Movement" (2017) by Susan Gray and Bestor Cram (54 min.) - available on Amazon, iTunes, and on course reserve at Snell Library.
 
-**W. 4/10: What do we do now?**
+**W. 4/10: Legacies of the Civil War & Reconstruction**
 - Ta-Nehisi Coates, ["The Case for Reparations"](http://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/) *The Atlantic* (2014).
 
 ~~**M. 4/15: No Class - Official Holiday**~~
