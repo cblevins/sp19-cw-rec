@@ -108,7 +108,7 @@ title: Schedule
 
 **M. 4/1: Reconstruction I**
 - ["A More Perfect Union: The Reconstruction Era"](https://www.backstoryradio.org/shows/a-more-perfect-union/) (August 10, 2018) from *Backstory* podcast.
-- Gregory Downs and Scott Nesbit, [Mapping Occupation](http://mappingoccupation.org/) (read the entirety)
+- Gregory Downs and Scott Nesbit, [Mapping Occupation](http://mappingoccupation.org/) (read the entire narrative).
 
 **W. 4/3: Reconstruction II**
 - ["The Most Perfect Album: Episode 5"](https://www.wnycstudios.org/story/most-perfect-album-episode-5) (October 24, 2018) from *More Perfect* podcast.
