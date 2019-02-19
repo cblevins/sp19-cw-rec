@@ -74,7 +74,7 @@ title: Schedule
 **M. 2/25: Session 6**
 
 **W. 2/27: Debrief Session | War Begins**
-- Post-mortem assessment due Sunday, 2/24 by 5PM.
+- Post-mortem assessment due Tuesday, 2/26 by 11:59PM.
 - Ari Kelman and Jonathan Fetter-Vorm, *Battle Lines: A Graphic History of the Civil War* (pp. ix-42)
 
 ~~**M. 3/4: No Class - Spring Break**~~
