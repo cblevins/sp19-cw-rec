@@ -89,8 +89,8 @@ title: Schedule
 - Note: Meet at the [Robert Gould Shaw Memorial](https://goo.gl/maps/cwWuCd4D9ou) for a guided tour of the trail with a National Park Service employee. 
 
 **M. 3/18: Emancipation**
-- James McPherson, [“Who Freed the Slaves?”]({{site.baseurl}}/McPherson_WhoFreedTheSlaves.pdf) *Proceedings of the American Philosophical Society* Vol. 139, No. 1 (Mar., 1995), pp. 1-10.
-- Ira Berlin, ["Who Freed the Slaves? Emancipation and its Meaning in American Life"]({{site.baseurl}}/Berlin_WhoFreedTheSlaves.pdf) in Blight and Simpson, eds., *Union & Emancipation* (1997), pp. 105-121.
+- James McPherson, [“Who Freed the Slaves?”]({{site.baseurl}}/downloads/McPherson_WhoFreedTheSlaves.pdf) *Proceedings of the American Philosophical Society* Vol. 139, No. 1 (Mar., 1995), pp. 1-10.
+- Ira Berlin, ["Who Freed the Slaves? Emancipation and its Meaning in American Life"]({{site.baseurl}}/downloads/Berlin_WhoFreedTheSlaves.pdf) in Blight and Simpson, eds., *Union & Emancipation* (1997), pp. 105-121.
 - Jack Hitt and Chenjerai Kumanyika, ["The Raid"](http://www.gimletmedia.com/uncivil/the-raid#episode-player) (October 4, 2017) from *Uncivil* podcast.
 
 **W. 3/20: Total War**
