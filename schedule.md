@@ -98,6 +98,8 @@ title: Schedule
 - Kelman and Fetter-Vorm, *Battle Lines* (pp. 131-174)
 - Jack Hitt and Chenjerai Kumanyika, ["The Ring"](https://www.gimletmedia.com/uncivil/the-ring) (November 9, 2017) from *Uncivil* podcast.
 
+*Outside event: W. 3/20, 7:30pm*: [Force and Freedom: Black Abolitionists and the Politics of Violence](http://masshumanities.org/event/EV_190214103018/)
+
 *[Podcast Episode #2]({{site.baseurl}}/podcasts) due Sunday, 3/24 by 5PM*
 
 **M. 3/25: Total War**
