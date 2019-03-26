@@ -106,14 +106,16 @@ title: Schedule
 - Jack Hitt and Chenjerai Kumanyika, ["The Portrait"](https://www.gimletmedia.com/uncivil/the-portrait) (December 27, 2017) from *Uncivil* podcast.
 
 **W. 3/27: The Ends of War and the Beginnings of Reconstruction**
-- Kelman and Fetter-Vorm, *Battle Lines* (p. 175-211)
+- Kelman and Fetter-Vorm, *Battle Lines* (p. 175-186)
 - ["1865: United States of Uncertainty"](https://www.backstoryradio.org/shows/eighteen-sixty-five/) (April 25, 2015) from *Backstory* podcast.
 
 **M. 4/1: Reconstruction I**
+- Kelman and Fetter-Vorm, *Battle Lines* (p. 187-198)
 - ["A More Perfect Union: The Reconstruction Era"](https://www.backstoryradio.org/shows/a-more-perfect-union/) (August 10, 2018) from *Backstory* podcast.
 - Gregory Downs and Scott Nesbit, [Mapping Occupation](http://mappingoccupation.org/) (read through the entire narrative)
 
 **W. 4/3: Reconstruction II**
+- Kelman and Fetter-Vorm, *Battle Lines* (p. 200-211)
 - ["The Most Perfect Album: Episode 5"](https://www.wnycstudios.org/story/most-perfect-album-episode-5) (October 24, 2018) from *More Perfect* podcast.
 - Come to class with a one-paragraph overview of your project
 
