@@ -116,8 +116,8 @@ title: Schedule
 
 **W. 4/3: Reconstruction II**
 - Kelman and Fetter-Vorm, *Battle Lines* (p. 200-211)
-- ["The Most Perfect Album: Episode 5"](https://www.wnycstudios.org/story/most-perfect-album-episode-5) (October 24, 2018) from *More Perfect* podcast.
-- Come to class with a one-paragraph overview of your project
+- Virginia Scharff, "Broadening the Battlefield: Conflict, Contingency, and the Mystery of Women's Suffrage in Wyoming, 1869" in Arenson and Greybill, eds. *Civil War Wests* (p. 202-223)
+- Come to class with a one-paragraph plan for your final project.
 
 **M. 4/8: Redemption and Reunion**
 - Alexis Coe and Elliott Kalan, "Rutherford B. Hayes" (March 6, 2017) from *Presidents are People Too!* podcast. [Audible](https://www.audible.com/pd/Ep-19-Rutherford-B-Hayes-Presidents-Are-People-Too-Audiobook/B076PRC75B) or [iTunes](https://itunes.apple.com/us/podcast/presidents-are-people-too/id1168237590?mt=2).
