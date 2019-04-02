@@ -116,7 +116,7 @@ title: Schedule
 
 **W. 4/3: Reconstruction II**
 - Kelman and Fetter-Vorm, *Battle Lines* (p. 200-211)
-- Virginia Scharff, "Broadening the Battlefield: Conflict, Contingency, and the Mystery of Women's Suffrage in Wyoming, 1869" in Arenson and Greybill, eds. *Civil War Wests* (p. 202-223)
+- Virginia Scharff, ["Broadening the Battlefield: Conflict, Contingency, and the Mystery of Women's Suffrage in Wyoming, 1869"](https://www.dropbox.com/s/mjq0853ke3d53cc/Scharff_BroadeningTheBattlefield.pdf?dl=0) in Arenson and Greybill, eds. *Civil War Wests* (p. 202-223)
 - Come to class with a one-paragraph plan for your final project.
 
 **M. 4/8: Redemption and Reunion**
