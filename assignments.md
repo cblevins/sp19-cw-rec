@@ -23,5 +23,4 @@ All the way back in 2005, the Oxford Dictionary declared "podcast" its Word of t
 
 In your final project, you will be creating a historical interpretation or narrative that focuses on how a specific dimension, event, person, etc. of the Civil War and Reconstruction era has been remembered and its impact on the present-day United States. This must be conveyed through some sort of digital media: a podcast episode, video, animated film, 3D virtual reconstruction, online map, game, etc. Regardless of the format, the key requirement is that you must engage in a analysis of your topic that is: a) substantively researched and contextualized, b) clearly and compellingly communicated, and c) supported by historical evidence. You will be meeting with me to develop your idea along with a strategy to complete it.
 
-*Presentation due Weds. 4/16 in class.*<br>
-*Final version of project due Sun. 4/20 by 5PM.*
+*Final version of project due Tuesday 4/23 by midnight.*

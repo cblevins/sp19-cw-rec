@@ -128,7 +128,6 @@ title: Schedule
 
 ~~**M. 4/15: No Class - Official Holiday**~~
 
-**W. 4/17: Project Presentations**
-- Presentation of your Digital Media Project to the class (no more than 4 minutes)
+**W. 4/17: Wrapping Up**
 
-*Final version of Digital Media Project due Sunday, 4/20 by 5PM*
+*Final version of Digital Media Project due Tuesday, 4/23 by midnight*
