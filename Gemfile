@@ -8,3 +8,4 @@ gem "github-pages", group: :jekyll_plugins
 gem 'jekyll-paginate'
 
 gem "kramdown", ">= 2.3.1"
+gem "commonmarker", ">= 0.23.4"
