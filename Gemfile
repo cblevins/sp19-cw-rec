@@ -13,3 +13,4 @@ gem "nokogiri", ">= 1.13.4"
 gem "activesupport", ">= 6.1.7.1"
 
 gem "webrick", "~> 1.8"
+gem "rexml", ">= 3.2.8"
