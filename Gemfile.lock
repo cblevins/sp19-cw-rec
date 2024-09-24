@@ -254,7 +254,7 @@ GEM
     unf_ext (0.0.8.2)
     unf_ext (0.0.8.2-x64-mingw32)
     unicode-display_width (1.8.0)
-    webrick (1.8.1)
+    webrick (1.8.2)
 
 PLATFORMS
   ruby
@@ -268,7 +268,7 @@ DEPENDENCIES
   kramdown (>= 2.3.1)
   nokogiri (>= 1.13.4)
   rexml (>= 3.2.8)
-  webrick (~> 1.8)
+  webrick (>= 1.8.2)
 
 BUNDLED WITH
    2.3.11
